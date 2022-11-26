@@ -1,0 +1,6 @@
+Add all files to one folder and run through adventure class it contains main code. 
+
+This is a birds eye view game which contains players enemies and items which can give you health and shields to defend against the enemies its on a 9 by 9 grid and
+player is able to move through each tile freely.
+
+objective is to retrieve a key to escape.
